@@ -205,14 +205,11 @@ label.disabled, label.readonly, .disabled label, .readonly label {
     display: block;
 }
 .kv-form-bs4 .hint-block {
-    padding: 0.75rem;
     font-size: 0.75rem;
-    margin-top: 0.375rem;
     color: #999;
 }
 .kv-form-bs3 .hint-block {
     font-size: 12px;
-    margin-top: -5px;
     color: #999;
 }
 .kv-form-bs3 .help-block-error {
